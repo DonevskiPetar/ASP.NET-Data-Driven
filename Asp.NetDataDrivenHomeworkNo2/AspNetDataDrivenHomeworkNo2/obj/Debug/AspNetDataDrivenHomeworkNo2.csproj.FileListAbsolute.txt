@@ -1,0 +1,10 @@
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo2\AspNetDataDrivenHomeworkNo2\bin\Debug\AspNetDataDrivenHomeworkNo2.exe.config
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo2\AspNetDataDrivenHomeworkNo2\bin\Debug\AspNetDataDrivenHomeworkNo2.exe
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo2\AspNetDataDrivenHomeworkNo2\bin\Debug\AspNetDataDrivenHomeworkNo2.pdb
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo2\AspNetDataDrivenHomeworkNo2\bin\Debug\Dapper.dll
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo2\AspNetDataDrivenHomeworkNo2\bin\Debug\Dapper.xml
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo2\AspNetDataDrivenHomeworkNo2\obj\Debug\AspNetDataDrivenHomeworkNo2.csprojAssemblyReference.cache
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo2\AspNetDataDrivenHomeworkNo2\obj\Debug\AspNetDataDrivenHomeworkNo2.csproj.CoreCompileInputs.cache
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo2\AspNetDataDrivenHomeworkNo2\obj\Debug\AspNetDataDrivenHomeworkNo2.csproj.CopyComplete
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo2\AspNetDataDrivenHomeworkNo2\obj\Debug\AspNetDataDrivenHomeworkNo2.exe
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo2\AspNetDataDrivenHomeworkNo2\obj\Debug\AspNetDataDrivenHomeworkNo2.pdb

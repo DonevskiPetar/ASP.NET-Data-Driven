@@ -1,0 +1,7 @@
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo1\AspNetDataDrivenHomeworkNo1\bin\Debug\AspNetDataDrivenHomeworkNo1.exe.config
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo1\AspNetDataDrivenHomeworkNo1\bin\Debug\AspNetDataDrivenHomeworkNo1.exe
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo1\AspNetDataDrivenHomeworkNo1\bin\Debug\AspNetDataDrivenHomeworkNo1.pdb
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo1\AspNetDataDrivenHomeworkNo1\obj\Debug\AspNetDataDrivenHomeworkNo1.csprojAssemblyReference.cache
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo1\AspNetDataDrivenHomeworkNo1\obj\Debug\AspNetDataDrivenHomeworkNo1.csproj.CoreCompileInputs.cache
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo1\AspNetDataDrivenHomeworkNo1\obj\Debug\AspNetDataDrivenHomeworkNo1.exe
+C:\Users\pepi\source\repos\AspNetDataDrivenHomeworkNo1\AspNetDataDrivenHomeworkNo1\obj\Debug\AspNetDataDrivenHomeworkNo1.pdb
